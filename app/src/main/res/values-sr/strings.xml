@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Galerija maglina</string>
+    <string name="answer_connected">Povezan na Internet !</string>
+    <string name="answer_no_connection">Nema Internet konekcije.\nMolim te poveži se na Internet.</string>
+    <string name="nebula_description">Opis</string>
+    <string name="nebula_name">Ime</string>
+    <string name="nebula_image">Slika</string>
+    <string name="ngc_1952">NGC\n1952</string>
+    <string name="ngc_2024">NGC\n2024</string>
+    <string name="ngc_2068">NGC\n2068</string>
+    <string name="ngc_7635">NGC\n7635</string>
+    <string name="ngc_3372">NGC\n3372</string>
+    <string name="ngc_1333">NGC\n1333</string>
+    <string name="ngc_6514">NGC\n6514</string>
+    <string name="ngc_6543">NGC\n6543</string>
+    <string name="ngc_6853">NGC\n6853</string>
+    <string name="ngc_7293">NGC\n7293</string>
+    <string name="ngc_1952_text">"Maglina Rak je ostatak supernove u sazvežđu Bika. Ova maglina se nalazi na udaljenosti od oko 6,500 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_2024_text">"Plamena maglina je emisiona maglina u sazvežđu Orion. Udaljena je između 900 i 1,500 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_2068_text">"Maglina NGC 2068 je refleksiona maglina u sazvežđu Orion. Udaljena je između 900 i 1,500 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_7635_text">"Mehur maglina je emisiona maglina u sazvežđu Kasiopeje. Ova maglina je udaljena između 7,100 i 11,000 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_3372_text">"Maglina Pramac se sastoji od svetlih i tamnih područja gasa i prašine u sazvežđu Pramac. Ova maglina je udaljena između 6,500 i 10,000 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_1333_text">"NGC 1333 je maglina u sazvežđu Persej. Procenjena udaljenost od Zemlje iznosi oko 1,000 svetlosnih godina."</string>
+    <string name="ngc_6514_text">"Maglina Trifid je kombinacija otvorenog zvezdanog jata i magline. Nalazi se u sazvežđu Strelca. Udaljena je oko 5,000 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_6543_text">"Maglina Mačje oko je planetarna maglina u sazvežđu Zmaj. Udaljena je između 3,000 i 5,000 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_6853_text">"Maglina Nemo zvono je planetarna maglina u sazvežđu Lisice. To je prva otkrivena planetarna maglina. Nalazi se na udaljenosti od oko 1,360 svetlosnih godina od Zemlje."</string>
+    <string name="ngc_7293_text">"Maglina Spirala je planetarna maglina u sazvežđu Vodolije, poznata i kao \"Sauronovo oko\". Nalazi se na udaljenosti od oko 700 svetlosnih godina od Zemlje."</string>
+    <string name="tap_image_to_expand">Dodirni sliku\nza uvećanje</string>
+
+</resources>

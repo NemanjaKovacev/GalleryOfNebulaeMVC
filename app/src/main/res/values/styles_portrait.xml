@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NebulaDescriptionPortrait">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/description_margin_portrait</item>
+        <item name="android:layout_marginTop">@dimen/description_margin_top_portrait</item>
+        <item name="android:layout_marginRight">@dimen/description_margin_portrait</item>
+        <item name="android:layout_marginBottom">@dimen/description_margin_portrait</item>
+        <item name="android:text">@string/nebula_description</item>
+        <item name="android:textSize">@dimen/description_text_size_portrait</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ExpandTextPortrait">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/expand_margin_left_portrait</item>
+        <item name="android:layout_marginTop">@dimen/expand_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/expand_margin_right_portrait</item>
+        <item name="android:text">@string/tap_image_to_expand</item>
+        <item name="android:textSize">@dimen/expand_text_size</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="NebulaImagePortrait">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/image_margin_portrait</item>
+        <item name="android:layout_marginTop">@dimen/image_margin_portrait</item>
+        <item name="android:layout_marginRight">@dimen/image_margin_portrait</item>
+        <item name="android:layout_marginBottom">@dimen/image_margin_portrait</item>
+        <item name="android:src">@drawable/placeholder</item>
+        <item name="android:scaleType">fitEnd</item>
+    </style>
+
+    <style name="NebulaNamePortrait">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/name_margin_portrait</item>
+        <item name="android:layout_marginTop">@dimen/name_margin_portrait</item>
+        <item name="android:text">@string/nebula_name</item>
+        <item name="android:textSize">@dimen/name_text_size</item>
+        <item name="android:textColor">@color/burgundy</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

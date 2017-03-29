@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+    style="@style/cardStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="@color/greyLight">
+
+    <TextView
+        android:id="@+id/nebulaName"
+        style="@style/NebulaNameLandscape"/>
+
+    <TextView
+        android:id="@+id/nebulaDescription"
+        style="@style/NebulaDescriptionLandscape"/>
+
+    <TextView
+        android:id="@+id/tapExpandImage"
+        style="@style/ExpandTextLandscape"/>
+
+    <ImageView
+        android:id="@+id/nebulaImage"
+        style="@style/NebulaImageLandscape"
+        android:contentDescription="@string/nebula_image"/>
+
+</android.support.v7.widget.CardView>
+

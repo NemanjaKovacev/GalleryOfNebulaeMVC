@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gallery Of Nebulae</string>
+    <string name="answer_connected">Connected to Internet! </string>
+    <string name="answer_no_connection">No internet connection!\nPlease connect and try again.</string>
+    <string name="nebula_description">Description</string>
+    <string name="nebula_name">Name</string>
+    <string name="nebula_image">Nebula Image</string>
+    <string name="ngc_1952">NGC\n1952</string>
+    <string name="ngc_2024">NGC\n2024</string>
+    <string name="ngc_2068">NGC\n2068</string>
+    <string name="ngc_7635">NGC\n7635</string>
+    <string name="ngc_3372">NGC\n3372</string>
+    <string name="ngc_1333">NGC\n1333</string>
+    <string name="ngc_6514">NGC\n6514</string>
+    <string name="ngc_6543">NGC\n6543</string>
+    <string name="ngc_6853">NGC\n6853</string>
+    <string name="ngc_7293">NGC\n7293</string>
+    <string name="ngc_1952_text">"The Crab Nebula is a supernova remnant in the constellation of Taurus. It lies at a distance of about 6,500 light&#8211;years from Earth."</string>
+    <string name="ngc_2024_text">"The Flame Nebula is an emission nebula in the constellation Orion. It is about 900 to 1,500 light&#8211;years away."</string>
+    <string name="ngc_2068_text">"The NGC 2068 nebula is a reflection nebula in the constellation Orion. The distance from Earth is between 900 and 1,500 light&#8211;years."</string>
+    <string name="ngc_7635_text">"The Bubble Nebula is an emission nebula in the constellation Cassiopeia. It lies at a distance of 7100 to 11000 light&#8211;years from Earth"</string>
+    <string name="ngc_3372_text">"The Carina Nebula is a large area of bright and dark nebulosity in the constellation Carina. It lies at a distance of 6,500 to 10,000 light&#8211;years from Earth."</string>
+    <string name="ngc_1333_text">"NGC 1333 is a reflection nebula located in the constellation Perseus. Estimated distance from Earth is around 1,000 light&#8211;years.</string>
+    <string name="ngc_6514_text">"The Trifid Nebula is a combination of an open cluster of stars and a nebula located in the constellation of Sagittarius. It is approximately 5000 light&#8211;years away from Earth."</string>
+    <string name="ngc_6543_text">"The Cat's Eye Nebula is a planetary nebula in the constellation of Draco. It lies about 3,000 to 5,300 light&#8211;years from Earth."</string>
+    <string name="ngc_6853_text">"The Dumbbell Nebula is a planetary nebula in the constellation Vulpecula. It lies at a distance of about 1,360 light&#8211;years from Earth."</string>
+    <string name="ngc_7293_text">"The Helix Nebula is a planetary nebula located in the constellation Aquarius. It has sometimes been referred to as the \"Eye of Sauron\". It lies at a distance of around 700 light&#8211;years from Earth.</string>
+    <string name="tap_image_to_expand">Tap image\nto expand</string>
+
+</resources>
